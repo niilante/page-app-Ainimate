@@ -4,11 +4,11 @@
 
 ## 运行方法
 
-# 安装依赖
-npm install
+#### 安装依赖
+	npm install
 
-# 浏览器打开localhost:8080
-npm run dev
+#### 浏览器打开localhost:8080
+	npm run dev
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3029162-a4c61948f2f8e016.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
