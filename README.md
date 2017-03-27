@@ -1,5 +1,14 @@
+
+
 因为需要实现类似APP页面切换的动画效果，百度google搜索比较少资料，所以自己写文档，希望对您有用
 
+## 运行方法
+
+# 安装依赖
+npm install
+
+# 浏览器打开localhost:8080
+npm run dev
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3029162-a4c61948f2f8e016.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
